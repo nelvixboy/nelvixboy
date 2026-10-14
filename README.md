@@ -1,3 +1,5 @@
+<img width="690" height="330" alt="image" src="https://github.com/user-attachments/assets/53ab934b-4911-4653-9185-6e757c640b81" />
+
 ## lotus will be everything, even in a machine code. just follow Lotus, and you will get everything
 
 i like Linux **very much**, **more** than i thought
